@@ -18,8 +18,8 @@ d_policy = {'include_baselines': True,
             'num_forecasts_for_lifetime_list_eligibility': 4
            }
 
-working_dir = 'EDIT_ME' # Local path of this repo
-yyg_repo_dir = 'EDIT_ME' # path to clone of https://github.com/youyanggu/covid19-forecast-hub-evaluation
+working_dir = '~/projects/COVID19-Model-Power-Ratings' # Local path of this repo
+yyg_repo_dir = '~/projects/covid19-forecast-hub-evaluation' # path to clone of https://github.com/youyanggu/covid19-forecast-hub-evaluation
 eval_dir = yyg_repo_dir + 'evaluations/'
 output_dir = working_dir + 'results/'
 
